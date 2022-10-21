@@ -5,10 +5,14 @@
       "Microsoft.Win32.SystemEvents/6.0.0": {
         "type": "package",
         "compile": {
-          "lib/net6.0/Microsoft.Win32.SystemEvents.dll": {}
+          "lib/net6.0/Microsoft.Win32.SystemEvents.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
-          "lib/net6.0/Microsoft.Win32.SystemEvents.dll": {}
+          "lib/net6.0/Microsoft.Win32.SystemEvents.dll": {
+            "related": ".xml"
+          }
         },
         "build": {
           "buildTransitive/netcoreapp3.1/_._": {}
@@ -26,10 +30,14 @@
           "Microsoft.Win32.SystemEvents": "6.0.0"
         },
         "compile": {
-          "lib/net6.0/System.Drawing.Common.dll": {}
+          "lib/net6.0/System.Drawing.Common.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
-          "lib/net6.0/System.Drawing.Common.dll": {}
+          "lib/net6.0/System.Drawing.Common.dll": {
+            "related": ".xml"
+          }
         },
         "build": {
           "buildTransitive/netcoreapp3.1/_._": {}
@@ -139,19 +147,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\jc_lu\\.nuget\\packages\\": {}
+    "C:\\Users\\serch\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jc_lu\\223e02\\src\\Application\\Application.csproj",
+      "projectUniqueName": "C:\\Users\\serch\\OneDrive\\Documentos\\impl\\FINALBI\\Application\\Application.csproj",
       "projectName": "Application",
-      "projectPath": "C:\\Users\\jc_lu\\223e02\\src\\Application\\Application.csproj",
-      "packagesPath": "C:\\Users\\jc_lu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jc_lu\\223e02\\src\\Application\\obj\\",
+      "projectPath": "C:\\Users\\serch\\OneDrive\\Documentos\\impl\\FINALBI\\Application\\Application.csproj",
+      "packagesPath": "C:\\Users\\serch\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\serch\\OneDrive\\Documentos\\impl\\FINALBI\\Application\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\jc_lu\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\serch\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -163,8 +171,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\jc_lu\\223e02\\src\\Domain\\Domain.csproj": {
-              "projectPath": "C:\\Users\\jc_lu\\223e02\\src\\Domain\\Domain.csproj"
+            "C:\\Users\\serch\\OneDrive\\Documentos\\impl\\FINALBI\\Domain\\Domain.csproj": {
+              "projectPath": "C:\\Users\\serch\\OneDrive\\Documentos\\impl\\FINALBI\\Domain\\Domain.csproj"
             }
           }
         }
@@ -190,7 +198,8 @@
           "net47",
           "net471",
           "net472",
-          "net48"
+          "net48",
+          "net481"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -199,7 +208,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
       }
     }
   }

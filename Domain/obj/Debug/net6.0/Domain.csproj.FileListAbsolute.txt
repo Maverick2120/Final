@@ -58,3 +58,15 @@ C:\Users\jc_lu\223e02\src\Domain\obj\Debug\net6.0\Domain.dll
 C:\Users\jc_lu\223e02\src\Domain\obj\Debug\net6.0\refint\Domain.dll
 C:\Users\jc_lu\223e02\src\Domain\obj\Debug\net6.0\Domain.pdb
 C:\Users\jc_lu\223e02\src\Domain\obj\Debug\net6.0\ref\Domain.dll
+C:\Users\serch\OneDrive\Documentos\impl\FINALBI\Domain\bin\Debug\net6.0\Domain.deps.json
+C:\Users\serch\OneDrive\Documentos\impl\FINALBI\Domain\bin\Debug\net6.0\Domain.dll
+C:\Users\serch\OneDrive\Documentos\impl\FINALBI\Domain\bin\Debug\net6.0\Domain.pdb
+C:\Users\serch\OneDrive\Documentos\impl\FINALBI\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+C:\Users\serch\OneDrive\Documentos\impl\FINALBI\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\serch\OneDrive\Documentos\impl\FINALBI\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+C:\Users\serch\OneDrive\Documentos\impl\FINALBI\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+C:\Users\serch\OneDrive\Documentos\impl\FINALBI\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\serch\OneDrive\Documentos\impl\FINALBI\Domain\obj\Debug\net6.0\Domain.dll
+C:\Users\serch\OneDrive\Documentos\impl\FINALBI\Domain\obj\Debug\net6.0\refint\Domain.dll
+C:\Users\serch\OneDrive\Documentos\impl\FINALBI\Domain\obj\Debug\net6.0\Domain.pdb
+C:\Users\serch\OneDrive\Documentos\impl\FINALBI\Domain\obj\Debug\net6.0\ref\Domain.dll

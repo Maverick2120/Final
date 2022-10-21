@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jc_lu\\223e02\\src\\Presentation.WebApp\\Presentation.WebApp.csproj": {}
+    "C:\\Users\\serch\\OneDrive\\Documentos\\impl\\FINALBI\\Presentation.WebApp\\Presentation.WebApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jc_lu\\223e02\\src\\Application\\Application.csproj": {
+    "C:\\Users\\serch\\OneDrive\\Documentos\\impl\\FINALBI\\Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jc_lu\\223e02\\src\\Application\\Application.csproj",
+        "projectUniqueName": "C:\\Users\\serch\\OneDrive\\Documentos\\impl\\FINALBI\\Application\\Application.csproj",
         "projectName": "Application",
-        "projectPath": "C:\\Users\\jc_lu\\223e02\\src\\Application\\Application.csproj",
-        "packagesPath": "C:\\Users\\jc_lu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jc_lu\\223e02\\src\\Application\\obj\\",
+        "projectPath": "C:\\Users\\serch\\OneDrive\\Documentos\\impl\\FINALBI\\Application\\Application.csproj",
+        "packagesPath": "C:\\Users\\serch\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\serch\\OneDrive\\Documentos\\impl\\FINALBI\\Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\jc_lu\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\serch\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -26,8 +26,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\jc_lu\\223e02\\src\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\jc_lu\\223e02\\src\\Domain\\Domain.csproj"
+              "C:\\Users\\serch\\OneDrive\\Documentos\\impl\\FINALBI\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\serch\\OneDrive\\Documentos\\impl\\FINALBI\\Domain\\Domain.csproj"
               }
             }
           }
@@ -53,7 +53,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -62,21 +63,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\jc_lu\\223e02\\src\\Domain\\Domain.csproj": {
+    "C:\\Users\\serch\\OneDrive\\Documentos\\impl\\FINALBI\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jc_lu\\223e02\\src\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Users\\serch\\OneDrive\\Documentos\\impl\\FINALBI\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\jc_lu\\223e02\\src\\Domain\\Domain.csproj",
-        "packagesPath": "C:\\Users\\jc_lu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jc_lu\\223e02\\src\\Domain\\obj\\",
+        "projectPath": "C:\\Users\\serch\\OneDrive\\Documentos\\impl\\FINALBI\\Domain\\Domain.csproj",
+        "packagesPath": "C:\\Users\\serch\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\serch\\OneDrive\\Documentos\\impl\\FINALBI\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\jc_lu\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\serch\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -105,7 +106,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -114,21 +116,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\jc_lu\\223e02\\src\\Infrastructure\\Infrastructure.csproj": {
+    "C:\\Users\\serch\\OneDrive\\Documentos\\impl\\FINALBI\\Infrastructure\\Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jc_lu\\223e02\\src\\Infrastructure\\Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\serch\\OneDrive\\Documentos\\impl\\FINALBI\\Infrastructure\\Infrastructure.csproj",
         "projectName": "Infrastructure",
-        "projectPath": "C:\\Users\\jc_lu\\223e02\\src\\Infrastructure\\Infrastructure.csproj",
-        "packagesPath": "C:\\Users\\jc_lu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jc_lu\\223e02\\src\\Infrastructure\\obj\\",
+        "projectPath": "C:\\Users\\serch\\OneDrive\\Documentos\\impl\\FINALBI\\Infrastructure\\Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\serch\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\serch\\OneDrive\\Documentos\\impl\\FINALBI\\Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\jc_lu\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\serch\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -140,8 +142,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\jc_lu\\223e02\\src\\Application\\Application.csproj": {
-                "projectPath": "C:\\Users\\jc_lu\\223e02\\src\\Application\\Application.csproj"
+              "C:\\Users\\serch\\OneDrive\\Documentos\\impl\\FINALBI\\Application\\Application.csproj": {
+                "projectPath": "C:\\Users\\serch\\OneDrive\\Documentos\\impl\\FINALBI\\Application\\Application.csproj"
               }
             }
           }
@@ -171,7 +173,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -180,21 +183,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\jc_lu\\223e02\\src\\Presentation.WebApp\\Presentation.WebApp.csproj": {
+    "C:\\Users\\serch\\OneDrive\\Documentos\\impl\\FINALBI\\Presentation.WebApp\\Presentation.WebApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jc_lu\\223e02\\src\\Presentation.WebApp\\Presentation.WebApp.csproj",
+        "projectUniqueName": "C:\\Users\\serch\\OneDrive\\Documentos\\impl\\FINALBI\\Presentation.WebApp\\Presentation.WebApp.csproj",
         "projectName": "Presentation.WebApp",
-        "projectPath": "C:\\Users\\jc_lu\\223e02\\src\\Presentation.WebApp\\Presentation.WebApp.csproj",
-        "packagesPath": "C:\\Users\\jc_lu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jc_lu\\223e02\\src\\Presentation.WebApp\\obj\\",
+        "projectPath": "C:\\Users\\serch\\OneDrive\\Documentos\\impl\\FINALBI\\Presentation.WebApp\\Presentation.WebApp.csproj",
+        "packagesPath": "C:\\Users\\serch\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\serch\\OneDrive\\Documentos\\impl\\FINALBI\\Presentation.WebApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\jc_lu\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\serch\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -206,11 +209,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\jc_lu\\223e02\\src\\Application\\Application.csproj": {
-                "projectPath": "C:\\Users\\jc_lu\\223e02\\src\\Application\\Application.csproj"
+              "C:\\Users\\serch\\OneDrive\\Documentos\\impl\\FINALBI\\Application\\Application.csproj": {
+                "projectPath": "C:\\Users\\serch\\OneDrive\\Documentos\\impl\\FINALBI\\Application\\Application.csproj"
               },
-              "C:\\Users\\jc_lu\\223e02\\src\\Infrastructure\\Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\jc_lu\\223e02\\src\\Infrastructure\\Infrastructure.csproj"
+              "C:\\Users\\serch\\OneDrive\\Documentos\\impl\\FINALBI\\Infrastructure\\Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\serch\\OneDrive\\Documentos\\impl\\FINALBI\\Infrastructure\\Infrastructure.csproj"
               }
             }
           }
@@ -264,7 +267,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -276,7 +280,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     }
