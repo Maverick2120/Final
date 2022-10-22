@@ -9,6 +9,7 @@
       "Presentation.WebApp/1.0.0": {
         "dependencies": {
           "Application": "1.0.0",
+          "AspNetCore.Authentication.Basic": "6.0.1",
           "Infrastructure": "1.0.0",
           "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": "6.0.1",
           "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "6.0.2",
@@ -20,6 +21,14 @@
         },
         "runtime": {
           "Presentation.WebApp.dll": {}
+        }
+      },
+      "AspNetCore.Authentication.Basic/6.0.1": {
+        "runtime": {
+          "lib/net6.0/AspNetCore.Authentication.Basic.dll": {
+            "assemblyVersion": "6.0.1.0",
+            "fileVersion": "6.0.1.0"
+          }
         }
       },
       "Humanizer.Core/2.8.26": {
@@ -2395,6 +2404,13 @@
       "type": "project",
       "serviceable": false,
       "sha512": ""
+    },
+    "AspNetCore.Authentication.Basic/6.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-OTZgbSept3yUkdx8jyDNt7CrZjnkVEAW7egwDwzSyBufFdyGE3SazOD0LnjlmBj/QfZ2htApG/MCbSZjmlb5iA==",
+      "path": "aspnetcore.authentication.basic/6.0.1",
+      "hashPath": "aspnetcore.authentication.basic.6.0.1.nupkg.sha512"
     },
     "Humanizer.Core/2.8.26": {
       "type": "package",

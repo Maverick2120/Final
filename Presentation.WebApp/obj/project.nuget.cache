@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "+ws8IilPkQiD6S9yXauyouJKt2sFJqVUTm6i7A9xKi7lMy2qxyIaQ88g0LCprkPhtWQTCzDg77VRW+hMfk3McQ==",
+  "dgSpecHash": "abN9svwG/nJJw4krkcpeEJsrW8HNm3PGBQAVD9BUDhUb5g2GufrxY37hmOD9vwcUSWKKdtC4FgCftfT9wIExEQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\serch\\OneDrive\\Documentos\\impl\\FINALBI\\Presentation.WebApp\\Presentation.WebApp.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\serch\\.nuget\\packages\\aspnetcore.authentication.basic\\6.0.1\\aspnetcore.authentication.basic.6.0.1.nupkg.sha512",
     "C:\\Users\\serch\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\serch\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",
     "C:\\Users\\serch\\.nuget\\packages\\messagepack.annotations\\2.1.152\\messagepack.annotations.2.1.152.nupkg.sha512",

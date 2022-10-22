@@ -1711,9 +1711,7 @@ C:\Users\serch\OneDrive\Documentos\impl\FINALBI\Presentation.WebApp\obj\Debug\ne
 C:\Users\serch\OneDrive\Documentos\impl\FINALBI\Presentation.WebApp\obj\Debug\net6.0\staticwebassets.build.json
 C:\Users\serch\OneDrive\Documentos\impl\FINALBI\Presentation.WebApp\obj\Debug\net6.0\staticwebassets.development.json
 C:\Users\serch\OneDrive\Documentos\impl\FINALBI\Presentation.WebApp\obj\Debug\net6.0\scopedcss\Views\bmw\index.cshtml.rz.scp.css
-C:\Users\serch\OneDrive\Documentos\impl\FINALBI\Presentation.WebApp\obj\Debug\net6.0\scopedcss\Views\Comprar\index.cshtml.rz.scp.css
 C:\Users\serch\OneDrive\Documentos\impl\FINALBI\Presentation.WebApp\obj\Debug\net6.0\scopedcss\Views\Home\index.cshtml.rz.scp.css
-C:\Users\serch\OneDrive\Documentos\impl\FINALBI\Presentation.WebApp\obj\Debug\net6.0\scopedcss\Views\Lambo\index.cshtml.rz.scp.css
 C:\Users\serch\OneDrive\Documentos\impl\FINALBI\Presentation.WebApp\obj\Debug\net6.0\scopedcss\Views\porche\index.cshtml.rz.scp.css
 C:\Users\serch\OneDrive\Documentos\impl\FINALBI\Presentation.WebApp\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\serch\OneDrive\Documentos\impl\FINALBI\Presentation.WebApp\obj\Debug\net6.0\scopedcss\bundle\Presentation.WebApp.styles.css
@@ -1724,3 +1722,6 @@ C:\Users\serch\OneDrive\Documentos\impl\FINALBI\Presentation.WebApp\obj\Debug\ne
 C:\Users\serch\OneDrive\Documentos\impl\FINALBI\Presentation.WebApp\obj\Debug\net6.0\Presentation.WebApp.pdb
 C:\Users\serch\OneDrive\Documentos\impl\FINALBI\Presentation.WebApp\obj\Debug\net6.0\Presentation.WebApp.genruntimeconfig.cache
 C:\Users\serch\OneDrive\Documentos\impl\FINALBI\Presentation.WebApp\obj\Debug\net6.0\ref\Presentation.WebApp.dll
+C:\Users\serch\OneDrive\Documentos\impl\FINALBI\Presentation.WebApp\bin\Debug\net6.0\AspNetCore.Authentication.Basic.dll
+C:\Users\serch\OneDrive\Documentos\impl\FINALBI\Presentation.WebApp\obj\Debug\net6.0\scopedcss\Views\Lambo\index.cshtml.rz.scp.css
+C:\Users\serch\OneDrive\Documentos\impl\FINALBI\Presentation.WebApp\obj\Debug\net6.0\scopedcss\Views\Comprar\index.cshtml.rz.scp.css
