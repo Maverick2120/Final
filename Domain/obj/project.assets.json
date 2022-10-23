@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\serch\\.nuget\\packages\\": {}
+    "C:\\Users\\luisi\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\serch\\OneDrive\\Documentos\\impl\\FINALBI\\Domain\\Domain.csproj",
+      "projectUniqueName": "C:\\Users\\luisi\\implant-project\\VIEJAPENDEJA\\Domain\\Domain.csproj",
       "projectName": "Domain",
-      "projectPath": "C:\\Users\\serch\\OneDrive\\Documentos\\impl\\FINALBI\\Domain\\Domain.csproj",
-      "packagesPath": "C:\\Users\\serch\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\serch\\OneDrive\\Documentos\\impl\\FINALBI\\Domain\\obj\\",
+      "projectPath": "C:\\Users\\luisi\\implant-project\\VIEJAPENDEJA\\Domain\\Domain.csproj",
+      "packagesPath": "C:\\Users\\luisi\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\luisi\\implant-project\\VIEJAPENDEJA\\Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\serch\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\luisi\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
       }
     }
   }

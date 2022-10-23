@@ -172,13 +172,13 @@ margin: auto;
 			}
 
       h1[b-lxm4byno60], h2[b-lxm4byno60], h3[b-lxm4byno60], h4[b-lxm4byno60], h5[b-lxm4byno60], h6[b-lxm4byno60] {
+        padding-top: 20px;
         font-weight: 700;
-        color: #ff0000;
       }
      
       h1 a[b-lxm4byno60], h2 a[b-lxm4byno60], h3 a[b-lxm4byno60], h4 a[b-lxm4byno60], h5 a[b-lxm4byno60], h6 a[b-lxm4byno60] {
-        color: inherit;
         text-decoration: none;
+        color: bisque;        
       }
 
       a[b-lxm4byno60] {
