@@ -1,32 +1,14 @@
-/* _content/Presentation.WebApp/Views/bmw/index.cshtml.rz.scp.css */
-
-span[b-xs69cf5qbr] {
-  text-align: center;
-}
-
-h2[b-xs69cf5qbr]{
-  text-align: center;
-  color: white;
-}
-div[b-xs69cf5qbr]{
-  text-align: center;
-}
-h1[b-xs69cf5qbr]{
-  text-align: left;
-  color: white;
-}
-h4[b-xs69cf5qbr]{
-  color: white;
-}
-h3[b-xs69cf5qbr]{
-  color: white;
-  text-align: center;
-}
-p[b-xs69cf5qbr]{
-  color: white;
-  text-align:justify;
-}
-
+/* _content/Presentation.WebApp/Views/Club/index.cshtml.rz.scp.css */
+span[b-u9jiivcel4] {
+    text-align: center;
+  }
+  
+  h2[b-u9jiivcel4]{
+    text-align: center;
+  }
+  div[b-u9jiivcel4]{
+    text-align: center;
+  }
 /* _content/Presentation.WebApp/Views/Comprar/index.cshtml.rz.scp.css */
 body[b-lxm4byno60]{
     background-color: rgb(255, 255, 255);
@@ -538,20 +520,6 @@ video[b-nlz6lns436]{
   z-index: -1;
 
 }
-/* _content/Presentation.WebApp/Views/Lambo/index.cshtml.rz.scp.css */
-
-span[b-ezjpgtug80] {
-  text-align: center;
-}
-
-h2[b-ezjpgtug80]{
-  text-align: center;
-}
-div[b-ezjpgtug80]{
-  text-align: center;
-}
-
-
 /* _content/Presentation.WebApp/Views/porche/index.cshtml.rz.scp.css */
 
 span[b-34wijt1ebw] {
@@ -566,6 +534,35 @@ div[b-34wijt1ebw]{
 }
 
 
+/* _content/Presentation.WebApp/Views/Sencilla/index.cshtml.rz.scp.css */
+
+span[b-dh527zik8l] {
+    text-align: center;
+  }
+  
+  h2[b-dh527zik8l]{
+    text-align: center;
+    color: white;
+  }
+  div[b-dh527zik8l]{
+    text-align: center;
+  }
+  h1[b-dh527zik8l]{
+    text-align: left;
+    color: white;
+  }
+  h4[b-dh527zik8l]{
+    color: white;
+  }
+  h3[b-dh527zik8l]{
+    color: white;
+    text-align: center;
+  }
+  p[b-dh527zik8l]{
+    color: white;
+    text-align:justify;
+  }
+  
 /* _content/Presentation.WebApp/Views/Shared/_Layout.cshtml.rz.scp.css */
 /* Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
 for details on configuring this project to bundle and minify static web assets. */
@@ -615,3 +612,15 @@ button.accept-policy[b-rbqrsycjir] {
   white-space: nowrap;
   line-height: 60px;
 }
+/* _content/Presentation.WebApp/Views/Suite/index.cshtml.rz.scp.css */
+span[b-dmnnp7doti] {
+    text-align: center;
+  }
+  
+  h2[b-dmnnp7doti]{
+    text-align: center;
+  }
+  div[b-dmnnp7doti]{
+    text-align: center;
+  }
+  

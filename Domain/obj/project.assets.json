@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\serch\\onedrive\\documentos\\impl\\viejapendeja\\Domain\\Domain.csproj",
+      "projectUniqueName": "C:\\Users\\serch\\onedrive\\documentos\\impl\\proyectoImpla\\Domain\\Domain.csproj",
       "projectName": "Domain",
-      "projectPath": "C:\\Users\\serch\\onedrive\\documentos\\impl\\viejapendeja\\Domain\\Domain.csproj",
+      "projectPath": "C:\\Users\\serch\\onedrive\\documentos\\impl\\proyectoImpla\\Domain\\Domain.csproj",
       "packagesPath": "C:\\Users\\serch\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\serch\\onedrive\\documentos\\impl\\viejapendeja\\Domain\\obj\\",
+      "outputPath": "C:\\Users\\serch\\onedrive\\documentos\\impl\\proyectoImpla\\Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\serch\\AppData\\Roaming\\NuGet\\NuGet.Config"

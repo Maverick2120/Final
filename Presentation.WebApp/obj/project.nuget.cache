@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+ds+abFKPA7rV3st2orAxVqhAPMwaZL6EIZmxnauGbnA8cd+STZ4Gb6oDpg+l9iFFBaq3N9W4QpiU9wF6mjslw==",
+  "dgSpecHash": "ci2oAnFymFLz6PrzAtFu+t1wvjA4wyx53nU3SmluntjMNMwRfoL0LVmBgMHsv+zD23u3aU+K8Led5+1NqUncvA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\serch\\onedrive\\documentos\\impl\\viejapendeja\\Presentation.WebApp\\Presentation.WebApp.csproj",
+  "projectFilePath": "C:\\Users\\serch\\onedrive\\documentos\\impl\\proyectoImpla\\Presentation.WebApp\\Presentation.WebApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\serch\\.nuget\\packages\\aspnetcore.authentication.basic\\6.0.1\\aspnetcore.authentication.basic.6.0.1.nupkg.sha512",
     "C:\\Users\\serch\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
