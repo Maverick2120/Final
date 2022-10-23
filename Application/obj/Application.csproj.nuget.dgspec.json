@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\luisi\\implant-project\\VIEJAPENDEJA\\Application\\Application.csproj": {}
+    "C:\\Users\\serch\\onedrive\\documentos\\impl\\viejapendeja\\Application\\Application.csproj": {}
   },
   "projects": {
-    "C:\\Users\\luisi\\implant-project\\VIEJAPENDEJA\\Application\\Application.csproj": {
+    "C:\\Users\\serch\\onedrive\\documentos\\impl\\viejapendeja\\Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\luisi\\implant-project\\VIEJAPENDEJA\\Application\\Application.csproj",
+        "projectUniqueName": "C:\\Users\\serch\\onedrive\\documentos\\impl\\viejapendeja\\Application\\Application.csproj",
         "projectName": "Application",
-        "projectPath": "C:\\Users\\luisi\\implant-project\\VIEJAPENDEJA\\Application\\Application.csproj",
-        "packagesPath": "C:\\Users\\luisi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\luisi\\implant-project\\VIEJAPENDEJA\\Application\\obj\\",
+        "projectPath": "C:\\Users\\serch\\onedrive\\documentos\\impl\\viejapendeja\\Application\\Application.csproj",
+        "packagesPath": "C:\\Users\\serch\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\serch\\onedrive\\documentos\\impl\\viejapendeja\\Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\luisi\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\serch\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -26,8 +26,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\luisi\\implant-project\\VIEJAPENDEJA\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\luisi\\implant-project\\VIEJAPENDEJA\\Domain\\Domain.csproj"
+              "C:\\Users\\serch\\onedrive\\documentos\\impl\\viejapendeja\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\serch\\onedrive\\documentos\\impl\\viejapendeja\\Domain\\Domain.csproj"
               }
             }
           }
@@ -63,21 +63,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\luisi\\implant-project\\VIEJAPENDEJA\\Domain\\Domain.csproj": {
+    "C:\\Users\\serch\\onedrive\\documentos\\impl\\viejapendeja\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\luisi\\implant-project\\VIEJAPENDEJA\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Users\\serch\\onedrive\\documentos\\impl\\viejapendeja\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\luisi\\implant-project\\VIEJAPENDEJA\\Domain\\Domain.csproj",
-        "packagesPath": "C:\\Users\\luisi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\luisi\\implant-project\\VIEJAPENDEJA\\Domain\\obj\\",
+        "projectPath": "C:\\Users\\serch\\onedrive\\documentos\\impl\\viejapendeja\\Domain\\Domain.csproj",
+        "packagesPath": "C:\\Users\\serch\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\serch\\onedrive\\documentos\\impl\\viejapendeja\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\luisi\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\serch\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -116,7 +116,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     }
