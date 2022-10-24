@@ -2590,7 +2590,6 @@ C:\Users\serch\onedrive\documentos\impl\proyectoImpla\Presentation.WebApp\obj\De
 C:\Users\serch\onedrive\documentos\impl\proyectoImpla\Presentation.WebApp\obj\Debug\net6.0\scopedcss\Views\Club\index.cshtml.rz.scp.css
 C:\Users\serch\onedrive\documentos\impl\proyectoImpla\Presentation.WebApp\obj\Debug\net6.0\scopedcss\Views\Comprar\index.cshtml.rz.scp.css
 C:\Users\serch\onedrive\documentos\impl\proyectoImpla\Presentation.WebApp\obj\Debug\net6.0\scopedcss\Views\Home\index.cshtml.rz.scp.css
-C:\Users\serch\onedrive\documentos\impl\proyectoImpla\Presentation.WebApp\obj\Debug\net6.0\scopedcss\Views\porche\index.cshtml.rz.scp.css
 C:\Users\serch\onedrive\documentos\impl\proyectoImpla\Presentation.WebApp\obj\Debug\net6.0\scopedcss\Views\Sencilla\index.cshtml.rz.scp.css
 C:\Users\serch\onedrive\documentos\impl\proyectoImpla\Presentation.WebApp\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\serch\onedrive\documentos\impl\proyectoImpla\Presentation.WebApp\obj\Debug\net6.0\scopedcss\Views\Suite\index.cshtml.rz.scp.css

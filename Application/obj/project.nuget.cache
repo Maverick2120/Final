@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "T78f3sWjDcmOSQVz3LVcbze19wBvqmGZvZK8FXTkTYgidOXLuWaRhicSBiiz8ygJVIzjNY9U3aEQS2W/df+vDQ==",
+  "dgSpecHash": "R1/RVeAxDzuqP6J3xCx8OM1/aa/LFMuyl85/+Ec9su10zAtcsBgEzJo/TUy7Ex6nUXk/9/ozOSq5XWv5FSzqWQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\luisi\\implant-project\\new-repos\\ProyectoImpla\\Application\\Application.csproj",
+  "projectFilePath": "C:\\Users\\serch\\onedrive\\documentos\\impl\\proyectoimpla\\Application\\Application.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\luisi\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
-    "C:\\Users\\luisi\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512"
+    "C:\\Users\\serch\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\serch\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512"
   ],
   "logs": []
 }
