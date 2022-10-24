@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\serch\\onedrive\\documentos\\impl\\proyectoImpla\\Infrastructure\\Infrastructure.csproj": {}
+    "C:\\Users\\luisi\\implant-project\\new-repos\\ProyectoImpla\\Infrastructure\\Infrastructure.csproj": {}
   },
   "projects": {
-    "C:\\Users\\serch\\onedrive\\documentos\\impl\\proyectoImpla\\Application\\Application.csproj": {
+    "C:\\Users\\luisi\\implant-project\\new-repos\\ProyectoImpla\\Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\serch\\onedrive\\documentos\\impl\\proyectoImpla\\Application\\Application.csproj",
+        "projectUniqueName": "C:\\Users\\luisi\\implant-project\\new-repos\\ProyectoImpla\\Application\\Application.csproj",
         "projectName": "Application",
-        "projectPath": "C:\\Users\\serch\\onedrive\\documentos\\impl\\proyectoImpla\\Application\\Application.csproj",
-        "packagesPath": "C:\\Users\\serch\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\serch\\onedrive\\documentos\\impl\\proyectoImpla\\Application\\obj\\",
+        "projectPath": "C:\\Users\\luisi\\implant-project\\new-repos\\ProyectoImpla\\Application\\Application.csproj",
+        "packagesPath": "C:\\Users\\luisi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\luisi\\implant-project\\new-repos\\ProyectoImpla\\Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\serch\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\luisi\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -26,8 +26,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\serch\\onedrive\\documentos\\impl\\proyectoImpla\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\serch\\onedrive\\documentos\\impl\\proyectoImpla\\Domain\\Domain.csproj"
+              "C:\\Users\\luisi\\implant-project\\new-repos\\ProyectoImpla\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\luisi\\implant-project\\new-repos\\ProyectoImpla\\Domain\\Domain.csproj"
               }
             }
           }
@@ -63,21 +63,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\serch\\onedrive\\documentos\\impl\\proyectoImpla\\Domain\\Domain.csproj": {
+    "C:\\Users\\luisi\\implant-project\\new-repos\\ProyectoImpla\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\serch\\onedrive\\documentos\\impl\\proyectoImpla\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Users\\luisi\\implant-project\\new-repos\\ProyectoImpla\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\serch\\onedrive\\documentos\\impl\\proyectoImpla\\Domain\\Domain.csproj",
-        "packagesPath": "C:\\Users\\serch\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\serch\\onedrive\\documentos\\impl\\proyectoImpla\\Domain\\obj\\",
+        "projectPath": "C:\\Users\\luisi\\implant-project\\new-repos\\ProyectoImpla\\Domain\\Domain.csproj",
+        "packagesPath": "C:\\Users\\luisi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\luisi\\implant-project\\new-repos\\ProyectoImpla\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\serch\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\luisi\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -116,21 +116,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\serch\\onedrive\\documentos\\impl\\proyectoImpla\\Infrastructure\\Infrastructure.csproj": {
+    "C:\\Users\\luisi\\implant-project\\new-repos\\ProyectoImpla\\Infrastructure\\Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\serch\\onedrive\\documentos\\impl\\proyectoImpla\\Infrastructure\\Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\luisi\\implant-project\\new-repos\\ProyectoImpla\\Infrastructure\\Infrastructure.csproj",
         "projectName": "Infrastructure",
-        "projectPath": "C:\\Users\\serch\\onedrive\\documentos\\impl\\proyectoImpla\\Infrastructure\\Infrastructure.csproj",
-        "packagesPath": "C:\\Users\\serch\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\serch\\onedrive\\documentos\\impl\\proyectoImpla\\Infrastructure\\obj\\",
+        "projectPath": "C:\\Users\\luisi\\implant-project\\new-repos\\ProyectoImpla\\Infrastructure\\Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\luisi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\luisi\\implant-project\\new-repos\\ProyectoImpla\\Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\serch\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\luisi\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -142,8 +142,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\serch\\onedrive\\documentos\\impl\\proyectoImpla\\Application\\Application.csproj": {
-                "projectPath": "C:\\Users\\serch\\onedrive\\documentos\\impl\\proyectoImpla\\Application\\Application.csproj"
+              "C:\\Users\\luisi\\implant-project\\new-repos\\ProyectoImpla\\Application\\Application.csproj": {
+                "projectPath": "C:\\Users\\luisi\\implant-project\\new-repos\\ProyectoImpla\\Application\\Application.csproj"
               }
             }
           }
@@ -183,7 +183,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }
