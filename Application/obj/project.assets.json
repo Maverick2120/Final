@@ -147,19 +147,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\serch\\.nuget\\packages\\": {}
+    "C:\\Users\\luisi\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\serch\\onedrive\\documentos\\impl\\proyectoimpla\\Application\\Application.csproj",
+      "projectUniqueName": "C:\\Users\\luisi\\implant-project\\ProyectoImpla\\Application\\Application.csproj",
       "projectName": "Application",
-      "projectPath": "C:\\Users\\serch\\onedrive\\documentos\\impl\\proyectoimpla\\Application\\Application.csproj",
-      "packagesPath": "C:\\Users\\serch\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\serch\\onedrive\\documentos\\impl\\proyectoimpla\\Application\\obj\\",
+      "projectPath": "C:\\Users\\luisi\\implant-project\\ProyectoImpla\\Application\\Application.csproj",
+      "packagesPath": "C:\\Users\\luisi\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\luisi\\implant-project\\ProyectoImpla\\Application\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\serch\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\luisi\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -171,8 +171,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\serch\\onedrive\\documentos\\impl\\proyectoimpla\\Domain\\Domain.csproj": {
-              "projectPath": "C:\\Users\\serch\\onedrive\\documentos\\impl\\proyectoimpla\\Domain\\Domain.csproj"
+            "C:\\Users\\luisi\\implant-project\\ProyectoImpla\\Domain\\Domain.csproj": {
+              "projectPath": "C:\\Users\\luisi\\implant-project\\ProyectoImpla\\Domain\\Domain.csproj"
             }
           }
         }
@@ -208,7 +208,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
       }
     }
   }
